@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Meu App</string>
+
+    <string name="card_hidden_cvv">•••</string>
+    <string name="card_hidden_number">•••• •••• •••• ••••</string>
+
+    <string name="card_holder_placeholder">NOME DO TITULAR</string>
+    <string name="card_expiration_placeholder">MM/AA</string>
+
+    <string name="card_number">Número do cartão</string>
+    <string name="card_holder_name">Nome do titular</string>
+    <string name="card_expiration">Validade (MM/AA)</string>
+    <string name="card_cvv">CVV</string>
+
+    <string name="confirm">Confirmar</string>
+</resources>
