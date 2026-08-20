@@ -3,4 +3,20 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="card_blue">#304FFE</color>
+
+    <!-- Cartão -->
+    <color name="card_front">#3B5BDB</color>
+    <color name="card_back">#22307E</color>
+
+    <!-- Chip EMV -->
+    <color name="chip_gold">#D9B23C</color>
+
+    <!-- Faixa magnética -->
+    <color name="magnetic_stripe">#1A1A1A</color>
+
+    <!-- Textos secundários sobre o cartão -->
+    <color name="card_label_muted">#CCD6FF</color>
+
+    <!-- Contorno / destaque dos campos e botão -->
+    <color name="input_accent">#3B5BDB</color>
 </resources>

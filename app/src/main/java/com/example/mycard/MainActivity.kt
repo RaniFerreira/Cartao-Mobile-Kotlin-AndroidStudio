@@ -1,3 +1,5 @@
+@file:Suppress("SpellCheckingInspection")
+
 package com.example.mycard
 
 import android.animation.Animator
@@ -167,7 +169,7 @@ class MainActivity : AppCompatActivity() {
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {}
             override fun afterTextChanged(s: Editable?) {
                 val name = s.toString()
-                tvHolderName.text = if (name.isBlank()) "NOME DO TITULAR" else name.uppercase()
+                tvHolderName.text = name.ifBlank { "NOME DO TITULAR" }.uppercase()
             }
         })
     }
@@ -206,7 +208,7 @@ class MainActivity : AppCompatActivity() {
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {}
             override fun afterTextChanged(s: Editable?) {
                 val cvv = s.toString()
-                tvCvvBack.text = if (cvv.isEmpty()) "•••" else cvv
+                tvCvvBack.text = cvv.ifEmpty { "•••" }
             }
         })
     }
