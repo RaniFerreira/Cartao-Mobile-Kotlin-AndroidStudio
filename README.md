@@ -62,19 +62,14 @@ Ao tocar em **Confirmar**, o app valida se o número do cartão tem 16 dígitos 
     <td align="center"><img width="278" height="612" alt="Erro no número do cartão" src="https://github.com/user-attachments/assets/1d07ed4d-4c34-4f16-90e0-160baf996fc3" /></td>
     <td align="center"><img width="286" height="607" alt="Erro no nome do titular" src="https://github.com/user-attachments/assets/4df91ad5-9de4-4d17-b569-28c4d8190376" /></td>
   </tr>
-   <tr>
-    <td align="center" colspan="2"><b>Demosntração do giro ao clicar em CVV</td>
-  </tr>
-  <tr>
-    <td align="center">
-    https://github.com/user-attachments/assets/d15d5967-c56b-40e3-a18f-20530a5d396a
-    </tr>
 </table>
 
 </div>
 
 
 ---
+## 💻 Demosntração de giro ao clicar em cvv
+https://github.com/user-attachments/assets/d15d5967-c56b-40e3-a18f-20530a5d396a
 
 ## 🛠️ Tecnologias utilizadas
 
