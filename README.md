@@ -66,7 +66,9 @@ Ao tocar em **Confirmar**, o app valida se o número do cartão tem 16 dígitos 
     <td align="center" colspan="2"><b>Demosntração do giro ao clicar em CVV</td>
   </tr>
   <tr>
-    <td align="center"></tr>
+    <td align="center">
+    https://github.com/user-attachments/assets/d15d5967-c56b-40e3-a18f-20530a5d396a
+    </tr>
 </table>
 
 </div>
