@@ -71,7 +71,8 @@ Ao tocar em **Confirmar**, o app valida se o número do cartão tem 16 dígitos 
 ## 💻 Demosntração de giro ao clicar em cvv
 <div align="center">
 https://github.com/user-attachments/assets/d15d5967-c56b-40e3-a18f-20530a5d396a
-</div>div>
+</div>
+
 ## 🛠️ Tecnologias utilizadas
 
 | Tecnologia | Uso no projeto |
